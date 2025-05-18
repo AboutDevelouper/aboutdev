@@ -1,8 +1,5 @@
 # 👋 Olá, como vai? Bem vindo(a) ao meu perfil do Github!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ2NzIzMjBkMzY5ZDM2MzM1ZDM0ZWFiZWJkMzQ3NjFkYzI1YmNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
-</div>
 
 ## 💫 Sobre Mim
 
