@@ -1,8 +1,5 @@
 # 👋 Olá, como vai? Bem vindo(a) ao meu perfil do Github!
 
-
-## 💫 Sobre Mim
-
 Desenvolvedor em início de carreira, apaixonado por tecnologia e sempre em busca de novos conhecimentos. Atualmente focado em aprimorar minhas habilidades em desenvolvimento web e expandir meu conhecimento em React.
 
 ## 🚀 Tecnologias & Habilidades
