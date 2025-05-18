@@ -45,8 +45,8 @@ Em breve compartilharei meus projetos aqui! Estou trabalhando em algumas ideias 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=AboutDevelouper&color=blueviolet&style=flat-square" alt="Profile Views">
 </div>
 
-</> De [About Develouper](https://github.com/AboutDevelouper) </>
+</> [About Develouper](https://github.com/AboutDevelouper) </>
 
