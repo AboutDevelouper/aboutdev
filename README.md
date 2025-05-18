@@ -21,8 +21,11 @@ Desenvolvedor em início de carreira, apaixonado por tecnologia e sempre em busc
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AboutDevelouper&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboutDevelouper&layout=compact&theme=radical" alt="Top Languages">
 </div>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboutDevelouper&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
 
 ## 🌱 Atualmente Aprendendo
 
